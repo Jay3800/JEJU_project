@@ -42,3 +42,5 @@ public class BootSpringBootApplication {
 }
 </code>
 </pre>
+
+ 코드로 
