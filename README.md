@@ -1,5 +1,7 @@
 # 제주 신용카드 빅데이터 경진대회
 
+![{E07DA1FF-AA66-4B01-8435-93E6D984DFA6}](https://user-images.githubusercontent.com/64066236/91116992-8d7f4f80-e6c8-11ea-8f53-e80307a9c3b9.png)
+
 'DACON'에서 주최한 '제주 신용카드 빅데이터 경진대회'에 참여한 소스코드
 
 1. 주제
